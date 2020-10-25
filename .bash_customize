@@ -1,7 +1,8 @@
 # B"H
 
-# . ~/dotfiles/.bash_kube_aliases
+ . ~/dotfiles/.bash_kube_aliases
 . ~/dotfiles/.bash_general_aliases
+. ~/dotfiles/.bash_k8s_ps1
 . ~/dotfiles/.bash_ps1
 
 if hash kubectl 2>/dev/null; then
